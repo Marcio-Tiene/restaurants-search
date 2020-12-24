@@ -23,8 +23,9 @@ or
 ```bash
     $ npm i
 ```
+3. Create a .env flie on the root of project's folder and use the google cloud plataform api key from your maps api and locations api
 
-3. Still in the project folder, type on terminal the command below to start the project in the browser.
+4. Still in the project folder, type on terminal the command below to start the project in the browser.
 
 ```bash
     $ yarn start
@@ -35,5 +36,7 @@ or
 ```bash
     $ npm start
 ```
+
+
 
 ### You can now use and modify the project at your discretion.
