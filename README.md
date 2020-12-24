@@ -2,7 +2,7 @@
 
 This app was created for the Digital Innovation One react web developer bootcamp
 
-check the preview on this [link]()
+check the preview on this [link](restaurants-search.vercel.app)
 
 ## Project setup:
 
